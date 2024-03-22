@@ -3,14 +3,8 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
   [plugins.inputs]
     publish = "out"
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
 
 [[plugins]]
   package = "netlify-plugin-run"
